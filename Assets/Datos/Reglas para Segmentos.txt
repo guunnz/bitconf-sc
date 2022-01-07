@@ -1,0 +1,22 @@
+Todos los segmentos tienen 10 metros libres de obstaculos (pueden tener monedas o powerups en ese espacio pero no obstaculos)
+Separacion de autos y camiones que forman una pasarela:  1 metro
+
+Separacion entre autos y camiones cortos andando: 15 metros
+
+Todos los autos que vallan a estar quietos se ponen a mano. Los spawn son para los que se mueven. (Al menos hasta que resolvamos el bug)
+
+Separacion de powerups delante de obstaculos: 4 metros
+Separacion de powerups de obstaculos que permiten SLICE: 1 metro
+
+Altura de las monedas:
+En el piso: 0
+Sobre autos: 1.5
+Sobre camiones: 3
+
+
+Colectables con salto:
+
+Salto En el suelo: 2.5
+Colectables salto sobre autos: 4
+Colectables salto sobre cmaiones: 5.5
+

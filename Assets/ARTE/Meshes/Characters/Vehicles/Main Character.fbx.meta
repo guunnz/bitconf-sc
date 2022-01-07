@@ -1,0 +1,1319 @@
+fileFormatVersion: 2
+guid: a7c4ce890b167b4468447f236799b213
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Conduccion
+  - first:
+      74: -1625420171084599000
+    second: GiroDerecha
+  - first:
+      74: 1759251311132459105
+    second: GiroIzquierda
+  - first:
+      74: -5338652004048245122
+    second: TurboPickup
+  - first:
+      74: 6360922300134551140
+    second: ConduccionTurbo
+  - first:
+      74: 6827962947086897187
+    second: GiroIzquierdaTurbo
+  - first:
+      74: -1436266970232964144
+    second: GiroDerechaTurbo
+  - first:
+      74: -1138982994164844714
+    second: TerminaTurbo
+  - first:
+      74: 3664691566440170313
+    second: PowerupPickup
+  - first:
+      74: 6343134385201474292
+    second: ImanPickup
+  - first:
+      74: -4876721302342209258
+    second: ImanRunning
+  - first:
+      74: 5539831331247536789
+    second: Jump
+  - first:
+      74: -1192840080986744117
+    second: Slide
+  - first:
+      74: -998496362607748373
+    second: BossSlide
+  - first:
+      74: 6414332590992573811
+    second: ImanIzqGiro
+  - first:
+      74: 3313975627981690590
+    second: ImanDerGiro
+  - first:
+      74: 1369088687976966309
+    second: TurboIzqGiro
+  - first:
+      74: -6474380821905241476
+    second: TurboDerGiro
+  - first:
+      74: -293923064987695396
+    second: LandingIman
+  - first:
+      74: -2168719931278159266
+    second: SlideIman
+  - first:
+      74: -6565740339375496123
+    second: AgarroTurboConIman
+  - first:
+      74: 6480610267109901665
+    second: Landing
+  - first:
+      74: -3173895835387585129
+    second: Jump Iman
+  - first:
+      74: 3060872287085348379
+    second: SlideIman (1)
+  - first:
+      74: -3704289112126983070
+    second: Shoot
+  - first:
+      74: -4179184560552127942
+    second: FrenadaBossfight
+  - first:
+      74: 4403981572425268978
+    second: "RecibeDa\xF1oBoss"
+  - first:
+      74: -1580537428024287536
+    second: AgarraArma
+  - first:
+      74: -2099805101704530353
+    second: IdleConArma
+  - first:
+      74: -2661900282765655751
+    second: Selection_Idle_Chica
+  - first:
+      74: 1656982741291602583
+    second: PlayerDeath
+  - first:
+      74: 559810637171349119
+    second: Selection_Idle_Chico
+  - first:
+      74: -5527740259632046124
+    second: Selection_Idle_Robot
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Conduccion
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GiroDerecha
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 50
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GiroIzquierda
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 30
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bike_Root
+        weight: 1
+      - path: Bike_Root/Bike_General_Control
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/Bike_Stearing_Control
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/Bike_Stearing_Control/Bike_Left_Grips
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/Bike_Stearing_Control/Bike_Right_Grips
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/Bike_Stearing_Control/Bike_Vespa_Frontend
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/Bike_Vespa
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJLPlatform
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJLThigh
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJLThigh/LABITCONF PJLCalf
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJLThigh/LABITCONF PJLCalf/LABITCONF PJLFoot
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJRThigh
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJRThigh/LABITCONF PJRCalf
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJRThigh/LABITCONF PJRCalf/LABITCONF PJRFoot
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm/Coin_Magnet
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm/LABITCONF PJLDigit11
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm/LABITCONF PJLDigit11/LABITCONF
+          PJLDigit12
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm/LABITCONF PJLDigit11/LABITCONF
+          PJLDigit12/LABITCONF PJLDigit13
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm/LABITCONF PJLDigit21
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm/LABITCONF PJLDigit21/LABITCONF
+          PJLDigit22
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm/LABITCONF PJLDigit21/LABITCONF
+          PJLDigit22/LABITCONF PJLDigit23
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm/LABITCONF PJLDigit31
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm/LABITCONF PJLDigit31/LABITCONF
+          PJLDigit32
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJLCollarbone/LABITCONF
+          PJLUpperarm/LABITCONF PJLForearm/LABITCONF PJLPalm/LABITCONF PJLDigit31/LABITCONF
+          PJLDigit32/LABITCONF PJLDigit33
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJNeck
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJNeck/LABITCONF
+          PJHead
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm/LABITCONF PJRPalm
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm/LABITCONF PJRPalm/LABITCONF PJRDigit11
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm/LABITCONF PJRPalm/LABITCONF PJRDigit11/LABITCONF
+          PJRDigit12
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm/LABITCONF PJRPalm/LABITCONF PJRDigit11/LABITCONF
+          PJRDigit12/LABITCONF PJRDigit13
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm/LABITCONF PJRPalm/LABITCONF PJRDigit21
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm/LABITCONF PJRPalm/LABITCONF PJRDigit21/LABITCONF
+          PJRDigit22
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm/LABITCONF PJRPalm/LABITCONF PJRDigit21/LABITCONF
+          PJRDigit22/LABITCONF PJRDigit23
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm/LABITCONF PJRPalm/LABITCONF PJRDigit31
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm/LABITCONF PJRPalm/LABITCONF PJRDigit31/LABITCONF
+          PJRDigit32
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRoot/LABITCONF PJPelvis/LABITCONF
+          PJSpine1/LABITCONF PJSpine2/LABITCONF PJRibcage/LABITCONF PJRCollarbone/LABITCONF
+          PJRUpperarm/LABITCONF PJRForearm/LABITCONF PJRPalm/LABITCONF PJRDigit31/LABITCONF
+          PJRDigit32/LABITCONF PJRDigit33
+        weight: 1
+      - path: Bike_Root/Bike_General_Control/LABITCONF PJRPlatform
+        weight: 1
+      - path: Chica_Cabeza_01
+        weight: 1
+      - path: Chica_Piernas_01
+        weight: 1
+      - path: Chica_Torso_01
+        weight: 1
+      - path: Chica_Zapatillas_01
+        weight: 1
+      - path: LABITCONF PJ
+        weight: 1
+      - path: LABITCONF PJLIKTarget
+        weight: 1
+      - path: LABITCONF PJRIKTarget
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TurboPickup
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 70
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ConduccionTurbo
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 100
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GiroIzquierdaTurbo
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 120
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GiroDerechaTurbo
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 140
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TerminaTurbo
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 160
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PowerupPickup
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 180
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ImanPickup
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 210
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ImanRunning
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 230
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 260
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Slide
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 300
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BossSlide
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 330
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ImanIzqGiro
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 480
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ImanDerGiro
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 500
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TurboIzqGiro
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 570
+      lastFrame: 580
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TurboDerGiro
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 590
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LandingIman
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 630
+      lastFrame: 645
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SlideIman
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 660
+      lastFrame: 680
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AgarroTurboConIman
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 520
+      lastFrame: 545
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Landing
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 280
+      lastFrame: 295
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump Iman
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 610
+      lastFrame: 630
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 415
+      lastFrame: 430
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FrenadaBossfight
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 330
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "RecibeDa\xF1oBoss"
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 430
+      lastFrame: 460
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AgarraArma
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 380
+      lastFrame: 395
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IdleConArma
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 395
+      lastFrame: 415
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Selection_Idle_Chica
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 755
+      lastFrame: 760
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerDeath
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 710
+      lastFrame: 711
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Selection_Idle_Chico
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 775
+      lastFrame: 780
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Selection_Idle_Robot
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 795
+      lastFrame: 800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

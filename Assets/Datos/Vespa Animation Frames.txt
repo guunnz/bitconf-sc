@@ -1,0 +1,34 @@
+Conduccion---------------- 00 - 20
+Giro Izquierda------------ 30 - 40
+Giro Derecha-------------- 50 - 60
+Agarra Turbo-------------- 70 - 95
+Conduccion Turbo---------- 100 - 110
+Giro Izquierda Turbo------ 120 - 130
+Giro Derecha Turbo-------- 140 - 150
+Termina Turbo------------- 160 - 170
+Agarra Powerup------------ 180- 205
+Agarra imam-------------- 210 - 220
+Andando con iman---------- 230 - 250
+Salto--------------------- 260 - 280
+Landing------------------- 280 - 295
+Barrida------------------- 300 - 320
+
+Frenada Bossfight--------- 330 - 370
+agarra el arma------------ 380 - 395
+Idle Con arma------------- 400 - 410
+Disparo------------------- 415 - 425
+Recive Daño en Bossfight-- 430 - 450
+
+Giro Izquierrda Con iman-- 480 - 490
+Giro Derecha con Iman----- 500 - 510
+Agarro Turbo con iman----- 520 - 545
+Conduccion Turbo con Iman- 550 - 560
+Izquirda turbo con iman--- 570 - 580
+Derecha Turbo con iman---- 590 - 600
+Salto con iman------------ 610 - 630
+Landing Con iman---------- 630 - 645
+Agachada con iman--------- 660 - 680
+
+Golpe contra obstaculo----
+Muerte--------------------
+

@@ -1,0 +1,25 @@
+* Empezamos adisparar pizzas ni bien nos damos vuelta. 
+  Debe reproducirse la animacion de "sacar arma" y luego la de         disparo, y recien en esta sale la primer bala.
+
+* Agregar particulas en el dino al recibir disparo
+
+* Agregar particulas en el dino al lastimarse y dropear moneda bonus
+
+* Reproducir animacion de dino de final de bossfight
+
+* Dar vuelta la moneda bonus para que se vea el brillo
+
+* Agregar shake de camara cuando nos tragamos una bolsa de plata
+
+* El efecto de agarrar monedas normales luego de la primera se ve mas chiquito
+
+- Cada tanto desaparecen algunos vehiculos adelante, se ve cuando desaparecen y el collider sigue prendido y te mata.   Rarisimo
+
+- Cuando entramos en la bossfight, y cuando salimos frenamos.
+Podra esta frenada ser menos brusca? Tardar, no se X frames?
+
+- El turbo desaparece los pasajes. Debe dejarlos igual que el escudo, en su version "abierta"
+
+- Si tenemos el escudo activado y tocamos una rampa la detecta como obstaculo y la destruye (Solo cuando vamos muy rapido (Sin escudo morimos))
+
+- Meter el boton "Setings" dentro del menu de pausa
